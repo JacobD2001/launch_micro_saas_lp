@@ -1,0 +1,29 @@
+{
+  // Code Generation Instructions
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": ".github/code-generation.md"
+    }
+  ]
+
+  // Test Generation Instructions
+  // "github.copilot.chat.testGeneration.instructions": [
+  //   {
+  //     "file": ".github/test-generation.md"
+  //   }
+  // ],
+
+  // Code Review Instructions
+  // "github.copilot.chat.reviewSelection.instructions": [
+  //   {
+  //     "file": ".github/code-review.md"
+  //   }
+  // ],
+
+  // Commit Message Generation Instructions
+  // "github.copilot.chat.commitMessageGeneration.instructions": [
+  //   {
+  //     "file": ".github/commit-message.md"
+  //   }
+  // ]
+}
